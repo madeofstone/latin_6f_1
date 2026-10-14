@@ -1,0 +1,7 @@
+# Textbook scans and the teacher checklist stay local (copyrighted / private)
+*.pdf
+*.jpg
+*.JPG
+*.jpeg
+*.png
+.DS_Store
